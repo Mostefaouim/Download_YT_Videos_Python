@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7f2253ad-6895-44ac-9c9f-28f14d4d57b7)# YouTube Video Downloader
+# YouTube Video Downloader
 
 This is a simple Python script to download YouTube videos using the `pytube` library. The user provides the URL of the YouTube video and the path where the video should be saved.
 
