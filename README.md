@@ -30,7 +30,7 @@ This is a simple Python script to download YouTube videos using the `pytube` lib
 3. Run the script:
 
     ```bash
-    python download_video.py
+    python Download_YT_Video_Script.py
     ```
 
 4. When prompted, enter the URL of the YouTube video you want to download.
