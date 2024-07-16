@@ -58,6 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
 ## Contact
 
-Mostefaoui - [mohammedmostefaoui2@gmail.com](mailto:mohammedmostefaoui2@gmail.com)
+Mostefaoui Mohammed- [mohammedmostefaoui2@gmail.com](mailto:mohammedmostefaoui2@gmail.com)
 
-Project Link: [https://github.com/Mostefaouim/OnlineShop](https://github.com/Mostefaouim/OnlineShop)
+Project Link: [https://github.com/Mostefaouim/OnlineShop](https://github.com/Mostefaouim/Download_YT_Videos_Python)
