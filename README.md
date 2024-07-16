@@ -19,17 +19,20 @@ This is a simple Python script to download YouTube videos using the `pytube` lib
 
 ## Usage
 
-1. Clone or download this repository.
+1. Clone or download this repository:
+      ```sh
+       git clone https://github.com/Mostefaouim/Download_YT_Videos_Python.git
+    ```
 
-2. Run the script:
+3. Run the script:
 
     ```bash
     python download_video.py
     ```
 
-3. When prompted, enter the URL of the YouTube video you want to download.
+4. When prompted, enter the URL of the YouTube video you want to download.
 
-4. Enter the path where you want to save the downloaded video.
+5. Enter the path where you want to save the downloaded video.
 
 The script will download the highest resolution of the video and save it to the specified location.
 
