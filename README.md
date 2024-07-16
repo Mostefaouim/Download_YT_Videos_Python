@@ -23,7 +23,10 @@ This is a simple Python script to download YouTube videos using the `pytube` lib
       ```sh
        git clone https://github.com/Mostefaouim/Download_YT_Videos_Python.git
     ```
-
+2. Navigate to the project directory:
+    ```sh
+        cd Download_YT_Videos_Python
+    ```
 3. Run the script:
 
     ```bash
