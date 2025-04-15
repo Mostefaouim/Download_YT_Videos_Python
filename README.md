@@ -51,7 +51,7 @@ The script will download the highest resolution of the video and save it to the 
 
 ## Example
 
-Enter The Link Of Video: https://www.youtube.com/watch?v=example\n
+Enter The Link Of Video: https://www.youtube.com/watch?v=example
 Enter The Path Where To Save The Video: /path/to/save
 Download Example Video Title
 Download finish!
